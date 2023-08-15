@@ -1,0 +1,8 @@
+site_name: 3Ztree
+nav:
+  - 首页: index.md
+  - "第一页": First.md
+  - 关于: about.md
+theme:
+  name: "material"
+
