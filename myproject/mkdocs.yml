@@ -6,5 +6,5 @@ nav:
   - 关于: about.md
 theme:
   name: "readthedocs"
-
+docs_dir: docs
 
