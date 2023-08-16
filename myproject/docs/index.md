@@ -1,28 +1,13 @@
 # Welcome to 3ZTREE
 
-这是一个测试文档网站
+## 三生之树V 0.2b 主要更新说明
+在0.2a主要功能-节点间自由连接、树之间可跳转的基础上，
+0.2b对于细节进行了大量优化，提升了用户体验。
+同时对MAC平台进行适配，兼顾移动平台实验性可行性测试。
+对于之后版本的效果实验也同步展开。
+
 
 ## 目录
 
-* ## [图片](First.md)
-<br>
-<span style="font-size: smaller;">这里面是一张图片。</span>
-<br>
+* ## [结点交互](NodeInteraction.md)
 
-* ## [视频](Scend.md)
-<br>
-<span style="font-size: smaller;">这里面是一个视频。</span>
-<br>
-
-* ## [第三章]()
-<br>
-<span style="font-size: smaller;">不用看了，啥都没有。</span>
-<br>
-
-* ## [第四章]()
-<br>
-<span style="font-size: smaller;">不用看了，啥都没有。</span>
-<br>
-
-## 其他声明
-    123

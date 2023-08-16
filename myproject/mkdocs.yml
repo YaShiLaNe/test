@@ -1,9 +1,13 @@
 site_name: 3Ztree
 nav:
   - 首页: index.md
-  - "图片": First.md
-  - "视频": Scend.md
-  - 关于: about.md
+  - "结点交互": NodeInteraction.md
+  - "导航菜单": Scend.md
+  - 配置菜单: about.md
+  - 创建结点: about.md
+  - 树文件操作: about.md
+  - 连线: about.md
+  - 全局操作: about.md
 theme:
   name: "readthedocs"
 docs_dir: docs
