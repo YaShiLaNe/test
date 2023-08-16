@@ -1,8 +1,10 @@
 site_name: 3Ztree
 nav:
   - 首页: index.md
-  - "第一页": First.md
+  - "图片": First.md
+  - "视频": Scend.md
   - 关于: about.md
 theme:
   name: "readthedocs"
+
 
