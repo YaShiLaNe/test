@@ -2,7 +2,7 @@ site_name: 3Ztree
 nav:
   - 首页: index.md
   - "结点交互": NodeInteraction.md
-  - "导航菜单": Scend.md
+  - "导航菜单": NavigationMenu.md
   - 配置菜单: about.md
   - 创建结点: about.md
   - 树文件操作: about.md

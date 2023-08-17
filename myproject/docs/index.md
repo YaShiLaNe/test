@@ -10,4 +10,12 @@
 ## 目录
 
 * ## [结点交互](NodeInteraction.md)
+* ## [导航菜单](NavigationMenu.md)
+
+## 下载体验
+
+* STEAM 搜索 “3ZENTREE”
+* [WIN0.2b版本下载](https://pan.baidu.com/s/17Ad8ShPouTQo_TsC65GwGQ?pwd=lxt2)
+* [MAC0.2b版本下载](https://pan.baidu.com/s/1NI70CCtzN5FQrGoOo5YcCQ?pwd=pg0x)
+
 
