@@ -31,8 +31,4 @@ c在软件的右上方存在一系列按钮，从左至右它们的功能分别�
 * ## 退出软件
 ![QuitTree](images/NavigationMenu/QuitTree.gif)
 ## 视频演示
-
-<video width="580" height="340" controls>
-  <source src="../videos/video2.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<a href="https://www.bilibili.com/video/BV1uj411Q76r/?spm_id_from=333.337.search-card.all.click" target="_blank">全局操作</a>

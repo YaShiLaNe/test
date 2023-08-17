@@ -21,8 +21,5 @@
 
 ![Image title](images/TreeFileOperation/ClearTree.gif)
 ## 视频演示
+<a href="https://www.bilibili.com/video/BV1bX4y1s73Y/?spm_id_from=333.788.recommend_more_video.2&vd_source=889ee3ee3ea16ab369623903dfaa87f4" target="_blank">全局操作</a>
 
-<video width="580" height="340" controls>
-  <source src="../videos/video2.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>

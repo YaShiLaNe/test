@@ -32,8 +32,5 @@
 
 ![结点纵深变化](images/NodeInteraction/LookInDepth.gif)
 ## 视频演示
+<a href="https://www.bilibili.com/video/BV1WM4y1E7Up/?spm_id_from=333.337.search-card.all.click" target="_blank">全局操作</a>
 
-<video width="580" height="340" controls>
-  <source src="../videos/video2.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>

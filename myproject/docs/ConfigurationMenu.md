@@ -59,8 +59,4 @@
 
 ![FrameRateLocking](images/ConfigurationMenu/FrameRateLocking.gif)
 ## 视频演示
-
-<video width="580" height="340" controls>
-  <source src="../videos/video2.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<a href="https://www.bilibili.com/video/BV1KN411D74N/?spm_id_from=333.337.search-card.all.click" target="_blank">全局操作</a>
