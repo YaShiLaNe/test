@@ -32,5 +32,5 @@
 
 ![结点纵深变化](images/NodeInteraction/LookInDepth.gif)
 ## 视频演示
-<a href="https://www.bilibili.com/video/BV1WM4y1E7Up/?spm_id_from=333.337.search-card.all.click" target="_blank">全局操作</a>
+<a href="https://www.bilibili.com/video/BV1WM4y1E7Up/?spm_id_from=333.337.search-card.all.click" target="_blank">结点交互</a>
 
