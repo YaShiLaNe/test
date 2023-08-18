@@ -59,4 +59,4 @@
 
 ![FrameRateLocking](images/ConfigurationMenu/FrameRateLocking.gif)
 ## 视频演示
-<a href="https://www.bilibili.com/video/BV1KN411D74N/?spm_id_from=333.337.search-card.all.click" target="_blank">配置菜单</a>
+<iframe src="https://player.bilibili.com/player.html?aid=487652450&bvid=BV1KN411D74N&cid=1174780730&page=1" width="640" height="360" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>

@@ -22,4 +22,4 @@
 
 ![ViewReset](images/GlobalOperation/ViewReset.gif)
 ## 视频演示
-<a href="https://www.bilibili.com/video/BV1xa4y1A7R9/?spm_id_from=333.337.search-card.all.click" target="_blank">全局操作</a>
+<iframe src="https://player.bilibili.com/player.html?aid=657676121&bvid=BV1xa4y1A7R9&cid=1174776490&page=1" width="640" height="360" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>

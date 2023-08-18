@@ -21,5 +21,4 @@
 
 ![WebNode](images/CreateNode/WebNode.gif)
 ## 视频演示
-<a href="https://www.bilibili.com/video/BV19a4y1w7QE/?spm_id_from=333.337.search-card.all.click" target="_blank">创建结点</a>
-
+<iframe src="https://player.bilibili.com/player.html?aid=657575821&bvid=BV19a4y1w7QE&cid=1171785598&page=1" width="640" height="360" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>

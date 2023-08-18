@@ -21,5 +21,4 @@
 
 ![Image title](images/TreeFileOperation/ClearTree.gif)
 ## 视频演示
-<a href="https://www.bilibili.com/video/BV1bX4y1s73Y/?spm_id_from=333.788.recommend_more_video.2&vd_source=889ee3ee3ea16ab369623903dfaa87f4" target="_blank">树文件操作</a>
-
+<iframe src="https://player.bilibili.com/player.html?aid=360124165&bvid=BV1bX4y1s73Y&cid=1171756326&page=1" width="640" height="360" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>

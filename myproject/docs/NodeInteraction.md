@@ -32,5 +32,4 @@
 
 ![结点纵深变化](images/NodeInteraction/LookInDepth.gif)
 ## 视频演示
-<a href="https://www.bilibili.com/video/BV1WM4y1E7Up/?spm_id_from=333.337.search-card.all.click" target="_blank">结点交互</a>
-
+<iframe src="https://player.bilibili.com/player.html?aid=912545651&bvid=BV1WM4y1E7Up&cid=1171350494&page=1" width="640" height="360" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>

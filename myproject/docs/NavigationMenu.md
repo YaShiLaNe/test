@@ -31,4 +31,4 @@ c在软件的右上方存在一系列按钮，从左至右它们的功能分别�
 * ## 退出软件
 ![QuitTree](images/NavigationMenu/QuitTree.gif)
 ## 视频演示
-<a href="https://www.bilibili.com/video/BV1uj411Q76r/?spm_id_from=333.337.search-card.all.click" target="_blank">导航菜单</a>
+<iframe src="https://player.bilibili.com/player.html?aid=445057481&bvid=BV1uj411Q76r&cid=1171787016&page=1" width="640" height="360" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
